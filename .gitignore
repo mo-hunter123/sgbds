@@ -1,0 +1,7 @@
+build
+resources
+cmake_install.cmake
+Makefile
+CMakeCache.txt
+build-and-run.sh
+.vscode
